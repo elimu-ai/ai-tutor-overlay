@@ -1,4 +1,4 @@
-# literacyapp-ai-tutor
+# ai-tutor
 AI tutor overlay
 
 ![storybooks ai tutor overlay](https://user-images.githubusercontent.com/15718174/27253943-6faf6f70-537e-11e7-8ef7-2559195cbc6f.png)
