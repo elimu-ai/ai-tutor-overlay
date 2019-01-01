@@ -1,6 +1,6 @@
 # AI Tutor Overlay
 
-Android application which overlays other apps when a text is pressed.
+Android application which overlays other apps when a text is long-pressed.
 
 ![storybooks ai tutor overlay](https://user-images.githubusercontent.com/15718174/27253943-6faf6f70-537e-11e7-8ef7-2559195cbc6f.png)
 
