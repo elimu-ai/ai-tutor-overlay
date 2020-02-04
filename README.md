@@ -1,4 +1,4 @@
-# AI Tutor Overlay
+# AI Tutor Overlay 👩🏽‍🏫
 
 Android application which overlays other apps when a text is long-pressed.
 
